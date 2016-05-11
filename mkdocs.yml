@@ -1,0 +1,7 @@
+site_name: MKDocs Test Documentation
+site_description: Testing the MKDocs and ReadtheDocs platforms
+theme: readthedocs
+pages:
+- ['index.md','Home']
+- ['first.md','First Page']
+- ['second.md','Second Page']
